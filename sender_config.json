@@ -1,0 +1,10 @@
+{
+    "sender_name": "Spectre",
+    "sender_email": "",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_password": "",
+    "send_count": 1,
+    "subject": "🎉 Happy Birthday!",
+    "check_sent_mail": false
+}
